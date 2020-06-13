@@ -132,5 +132,8 @@
       }
     }
   },
-  "defaultProject": "vscApp"
+  "defaultProject": "vscApp",
+  "cli": {
+    "analytics": "685357b6-94a7-4316-84c6-737b366ca226"
+  }
 }
