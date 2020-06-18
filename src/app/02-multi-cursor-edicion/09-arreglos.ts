@@ -11,7 +11,6 @@
 
 // Crear un arreglo con los días de la semana
 
-
 const dias1 = ['Lunes','Martes','Miercoles','Jueves','Viernes','Sabado','Domingo'];
 
 const dias2 = ['Lunes','Martes','Miercoles','Jueves','Viernes','Sabado','Domingo'];
